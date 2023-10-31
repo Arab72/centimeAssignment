@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.mt-4{
+  margin-top: 1.25rem;
+}
+
+.error{
+  color: red;
+}

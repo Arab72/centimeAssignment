@@ -1,0 +1,10 @@
+{
+    "language":"language",
+    "dashboard": "dashboard",
+    "inflow-outflow": "inflow-outflow",
+    "english": "english",
+    "french": "french",
+    "japanese": "japanese",
+    "profile": "profile",
+    "logout": "logout"
+}
